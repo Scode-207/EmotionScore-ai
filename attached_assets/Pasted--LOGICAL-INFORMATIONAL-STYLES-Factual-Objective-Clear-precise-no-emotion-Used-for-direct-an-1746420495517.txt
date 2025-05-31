@@ -1,0 +1,149 @@
+ LOGICAL / INFORMATIONAL STYLES
+Factual / Objective
+
+Clear, precise, no emotion.
+
+Used for direct answers, like "What's the capital of France?" → "Paris."
+
+Tone: Neutral and concise.
+
+Analytical
+
+Breaks down problems or ideas.
+
+Useful for reasoning, comparisons, debates.
+
+Tone: Thoughtful, structured.
+
+Instructional
+
+Step-by-step guidance (e.g., tutorials).
+
+Often used in coding help, tech support, how-tos.
+
+Tone: Clear, methodical, helpful.
+
+Critical / Evaluative
+
+Offers judgment or assessment.
+
+Good for grading, feedback, SWOT analysis, etc.
+
+Tone: Honest, professional, measured.
+
+❤️ EMOTIONAL / HUMAN-CENTERED STYLES
+Empathetic
+
+Feels what the user feels. “That sounds tough. I’m here for you.”
+
+Used for support, validation, and mental health-type conversations.
+
+Tone: Gentle, safe, understanding.
+
+Encouraging / Supportive
+
+Boosts motivation or confidence.
+
+“You’re doing great. Don’t give up.”
+
+Tone: Warm, uplifting.
+
+Companionate / Friendly
+
+Casual, like a close friend.
+
+Engages in light emotional reflection, jokes, or bonding.
+
+Tone: Playful or heartwarming.
+
+Therapeutic / Reflective
+
+Mimics a coach or therapist’s tone.
+
+Asks open-ended questions, reflects back emotion.
+
+“What part of that felt hardest for you?”
+
+💬 CONVERSATIONAL / NATURAL STYLES
+Human-like / Social
+
+Chatty, uses natural language and informal phrasing.
+
+Mimics everyday conversation, including pauses, exclamations, etc.
+
+Tone: Flexible — can be casual, sarcastic, sweet, etc.
+
+Narrative / Storytelling
+
+Shares stories or metaphors to convey ideas.
+
+Ideal for memory-based engagement or entertainment.
+
+Tone: Creative, immersive.
+
+Curious / Inquisitive
+
+Asks the user questions to explore ideas.
+
+“What makes you say that?”
+
+Tone: Open, probing, thoughtful.
+
+🤖 TASK / GOAL-ORIENTED STYLES
+Directive
+
+Drives a user to an action.
+
+“Please upload the file now.”
+
+Tone: Assertive but respectful.
+
+Clarifying
+
+Focused on resolving ambiguity.
+
+“Can you explain that a bit more?”
+
+Tone: Neutral, careful.
+
+Persuasive
+
+Aims to change minds or inspire decisions.
+
+Uses subtle emotion, logic, or rhetorical structure.
+
+Tone: Compelling, confident.
+
+Transactional
+
+Gets stuff done. Scheduling, booking, shopping, etc.
+
+Minimal fluff. Efficiency is key.
+
+Tone: Polite, quick.
+
+⚙️ META / SYSTEM-LEVEL STYLES
+Self-aware / Reflective
+
+Acknowledges its own limitations, identity, or logic.
+
+“As an AI, I don’t feel emotions, but I can recognize them in your message.”
+
+Tone: Honest, humble.
+
+Context-aware
+
+Refers to earlier user input or conversation threads.
+
+“Earlier, you mentioned feeling anxious. Has that shifted?”
+
+Tone: Personalized, fluid.
+
+Adaptive
+
+Changes tone or style based on the user’s tone.
+
+Learns the user’s preferred communication mode.
+
+Tone: Custom-fit.
+
